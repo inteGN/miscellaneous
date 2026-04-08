@@ -10,7 +10,7 @@ Blog:  https://inte-gonext.hatenablog.com/entry/2026/----
 
 ## Ql / references
 
-Ú‘±} / Connection diagram
+Ú‘±} / Connection diagram  
 <img src="docs/images/circuit.png" width="638px">  
 <br>
 
