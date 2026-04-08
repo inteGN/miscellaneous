@@ -10,7 +10,6 @@ This repository is a simple collection of miscellaneous sample programs linked w
 - `motor_speed_measurement/` :  
 アナログ出力付きのモータ回転数測定 / Motor speed measurement with analog output  
 使用したボード：Arduino NANO R4 / Applied board: Arduino NANO R4  
-Blog:  https://inte-gonext.hatenablog.com/entry/2026/----  
 - (preparing)  
 
 ---
