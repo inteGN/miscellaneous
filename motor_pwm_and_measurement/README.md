@@ -5,7 +5,7 @@
 アナログ出力付きのモータ回転数測定 / Motor speed measurement with analog output  
 DRV8835に対してステップ状のデューティ比でパルスを出力 / output pulses to DRV8835 with step sweep duty ratio  
 使用したボード：Arduino NANO R4 / Applied board: Arduino NANO R4  
-Blog:  https://inte-gonext.hatenablog.com/entry/2026/04/--/--/  
+Blog:  https://inte-gonext.hatenablog.com/entry/2026/04/14/134345  
 
 ---
 
@@ -16,7 +16,7 @@ Blog:  https://inte-gonext.hatenablog.com/entry/2026/04/--/--/
 <br>
 
 接続図 / Connection photo  
-<img src="docs/images/connection_photo.jpg" width="542px">  
+<img src="docs/images/connection_photo.jpg" width="560px">  
 <br>
 
 モータ回転数の変化 / motor speed transition  
