@@ -10,10 +10,14 @@ This repository is a simple collection of miscellaneous sample programs linked w
 - `motor_speed_measurement/` :  
 アナログ出力付きのモータ回転数測定 / Motor speed measurement with analog output  
 使用したボード：Arduino NANO R4 / Applied board: Arduino NANO R4  
-- `motor_speed_measurement/` :  
+- `motor_pwm_and_measurement/` :  
 アナログ出力付きのモータ回転数測定 / Motor speed measurement with analog output  
 DRV8835に対してステップ状のデューティ比でパルスを出力 / output pulses to DRV8835 with step sweep duty ratio  
 使用したボード：Arduino NANO R4 / Applied board: Arduino NANO R4  
+- `lcd_disp_2/` :  
+UART入力のキャラクタLCDモジュール / Character LCD module with UART input  
+使用したMCU：RL78/G16 16ピン / Applied MCU: RL78/G16 16pin  
+ホスト側デバイス：Arduino NANO R4 / Host device: Arduino NANO R4  
 - (preparing)  
 
 ---

@@ -1,8 +1,8 @@
-# motor_pwm_and_measurementt
+# motor_pwm_and_measurement
 
 ## 内容 / Contents
-- `motor_speed_measurement/` :  
-アナログ出力付きのモータ回転数測定 / Motor speed measurement with analog output  
+- `motor_pwm_and_measurement/` :  
+PWM出力付きのモータ回転数測定 / Motor pwm output and measurement  
 DRV8835に対してステップ状のデューティ比でパルスを出力 / output pulses to DRV8835 with step sweep duty ratio  
 使用したボード：Arduino NANO R4 / Applied board: Arduino NANO R4  
 Blog:  https://inte-gonext.hatenablog.com/entry/2026/04/14/134345  
